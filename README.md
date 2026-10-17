@@ -3,6 +3,11 @@
 >[!NOTE]
 > This is just my college project. I was not planning to add it to GitHub. It is here only as a backup.
 
+## Screenshots
+| Filepreview| Imagepreview |
+| :---: | :---: |
+| ![Filepreview](asserts/filepreview.png) | ![Imagepreview](asserts/imagepreview.png) |
+
 ## Features
 
 - Three-pane terminal interface for parent, current directory, and previews
